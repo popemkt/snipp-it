@@ -10,3 +10,4 @@ TODOs
 - Referencing projects/resources
     - OpenStrive
     - Microservices in .net book
+    - ThangChung stuff
