@@ -30,6 +30,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FSH", "FSH", "{1D3C7071-479
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIs", "APIs", "{B4AAFFB4-B588-4199-976B-DE5F61ADC5EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnippIt.Domain", "src\SnippIt.Domain\SnippIt.Domain.csproj", "{E0632D9D-4E09-4539-A5CE-18064B8E4F17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -88,6 +90,8 @@ Global
 		{455B7AD3-27DF-475D-8FDB-437496868E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{455B7AD3-27DF-475D-8FDB-437496868E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{455B7AD3-27DF-475D-8FDB-437496868E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0632D9D-4E09-4539-A5CE-18064B8E4F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0632D9D-4E09-4539-A5CE-18064B8E4F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4CF63096-B8D7-4620-A0AE-48D93BA30D1C} = {1D3C7071-4797-48A8-8B0E-D8F09349B214}

@@ -7,6 +7,7 @@ TODOs
 - Cloud Deployment
 - Microservice Dev Tools
     - Tye
+    - Dapr
 - Referencing projects/resources
     - OpenStrive
     - Microservices in .net book
